@@ -16,7 +16,7 @@ Catalyst Center MCP is a Python-based Model Context Protocol (MCP) server for Ci
 
    ```bash
    git clone https://github.com/your-username/catalyst-center-mcp.git
-   cd catalyst-center-mcp
+   cd Catalyst_Center_MCP
    ```
 
 2. Create a virtual environment and activate it:

@@ -2,6 +2,8 @@
 
 Catalyst Center MCP is a Python-based Model Context Protocol (MCP) server for Cisco Catalyst Center. It provides tools for querying the Catalyst Center Intent API (v2.3.7.9) to discover, monitor, and manage your Catalyst Center environment.
 
+DISCLAIMER: THIS IS CURRENTLY BUILT FOR USE IN A DEVNET ENVIORMENT FOR POC. SSL VERIFICATION IS DISABLED. THIS IS NOT RECCOMENED FOR PRODUCTION USE.
+
 ## Features
 
 - **Site Management**: Create and manage sites in Catalyst Center

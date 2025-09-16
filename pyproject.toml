@@ -17,9 +17,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/catalyst-center-mcp"
-Repository = "https://github.com/your-username/catalyst-center-mcp.git"
-Issues = "https://github.com/your-username/catalyst-center-mcp/issues"
+Homepage = "https://github.com/jackriebel/catalyst-center-mcp"
+Repository = "https://github.com/jackriebel/catalyst-center-mcp.git"
+Issues = "https://github.com/jackriebel/catalyst-center-mcp/issues"
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]

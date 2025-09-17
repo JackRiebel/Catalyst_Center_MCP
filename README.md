@@ -60,16 +60,13 @@ DISCLAIMER: THIS IS CURRENTLY BUILT FOR USE IN A DEVNET ENVIORMENT FOR POC. SSL 
      ```json
      {
        "mcpServers": {
-         "Catalyst_Center_MCP": {
-           "command": "/path/to/catalyst-center-mcp/.venv/bin/uvicorn",
-           "args": [
-             "catalyst_center_mcp:app",
-             "--host",
-             "0.0.0.0",
-             "--port",
-             "8000"
-           ]
-         }
+            "Catalyst_Center_MCP": {
+              "command": "/Users/jariebel/Desktop/Catalyst_Center_MCP/.venv/bin/fastmcp",
+              "args": [
+                "run",
+                "/PathToProgram/Catalyst_Center_MCP/catalyst_center_mcp.py"
+        ]
+      }
        }
      }
      ```

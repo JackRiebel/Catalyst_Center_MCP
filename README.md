@@ -64,14 +64,14 @@ DISCLAIMER: THIS IS CURRENTLY BUILT FOR USE IN A DEVNET ENVIORMENT FOR POC. SSL 
               "command": "/Users/jariebel/Desktop/Catalyst_Center_MCP/.venv/bin/fastmcp",
               "args": [
                 "run",
-                "/PathToProgram/Catalyst_Center_MCP/catalyst_center_mcp.py"
+                "/path/to/Catalyst_Center_MCP/catalyst_center_mcp.py"
         ]
       }
        }
      }
      ```
 
-   - Replace `/path/to/catalyst-center-mcp` with the actual path to your repository
+   - Replace `/path/to/Catalyst_Center_MCP` with the actual path to your repository
 
 2. Restart Claude Desktop
 3. Interact with the Catalyst Center MCP via Claude Desktop

@@ -61,7 +61,7 @@ DISCLAIMER: THIS IS CURRENTLY BUILT FOR USE IN A DEVNET ENVIORMENT FOR POC. SSL 
      {
        "mcpServers": {
             "Catalyst_Center_MCP": {
-              "command": "/Users/jariebel/Desktop/Catalyst_Center_MCP/.venv/bin/fastmcp",
+              "command": "/path/to/Catalyst_Center_MCP/.venv/bin/fastmcp",
               "args": [
                 "run",
                 "/path/to/Catalyst_Center_MCP/catalyst_center_mcp.py"
